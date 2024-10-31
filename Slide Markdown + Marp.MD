@@ -1,10 +1,10 @@
-|---|
-|marp: true|
-|backgroundColor: |
-|style:| 
-|theme: gaia|
-|size: 16:9|
-|---|
+---
+|marp: true
+backgroundColor: 
+style:
+theme: gaia
+|ize: 16:9
+---
 
 # Git x GitHub
 - **Git**
