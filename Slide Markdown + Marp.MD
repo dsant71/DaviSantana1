@@ -1,7 +1,7 @@
 . --- 
-marp: true
-theme: gaia
-size: 16:9
+   marp: true
+   theme: gaia
+   size: 16:9
 
 . --- 
 
