@@ -1,9 +1,9 @@
-` --- `
+. --- 
 marp: true
 theme: gaia
 size: 16:9
 
-` --- `
+. --- 
 
 # Git x GitHub
 - **Git**
