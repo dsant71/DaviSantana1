@@ -1,9 +1,9 @@
 ---
-|marp: true
+marp: true
 backgroundColor: 
 style:
 theme: gaia
-|ize: 16:9
+size: 16:9
 ---
 
 # Git x GitHub
